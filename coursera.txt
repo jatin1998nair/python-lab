@@ -1,0 +1,4 @@
+﻿Coursera is an American online learning platform founded by Stanford professors Andrew Ng and Daphne Kollerthat offers massive open online courses (MOOC), specializations, and degrees.
+Coursera works with universities and other organizations to offer online courses, specializations, and degrees in a variety of subjects, such as engineering, humanities, medicine, biology, social sciences, mathematics, business, computer science, digital marketing, data science, and others.
+As of June 2018, Coursera had more than 33 million registered usersand more than 2,400 courses. As of August 2019 the number of course offerings was 3,600.
+
